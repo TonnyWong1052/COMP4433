@@ -3,5 +3,7 @@ COMP4433 Data Mining and Data Warehousing
 # Data Pre-Processing
 # Association Rule Mining 
 # Data Visualization
+# Data Processing
 # Clustering 
-# Model Training and Evaluation
+# Model Training and combination 
+# Evaluation
